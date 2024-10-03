@@ -12,15 +12,15 @@ function Courses() {
         img:ai
     },{
         title: "Digital Marketing",
-        desc: "Master in Digital Marketing!!!",
+        desc: "Master Digital Marketing!!!",
         img:dg
     },{
         title: "Cyber Security",
-        desc: "Master in Cyber Security!!!",
+        desc: "Master Cyber Security!!!",
         img:hacker
     },{
         title: "Software Development",
-        desc: "Master in Software Development!!!",
+        desc: "Master Software Development!!!",
         img:sd
     },]
   return (

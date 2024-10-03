@@ -21,7 +21,7 @@ function Header() {
                         <div className="logo_img">
                             <img src={logo} alt="" />
                         </div>
-                        <h2>EduVibe</h2>
+                        <h2>Learn Tech</h2>
                     </div>
                     <div className="navigation">
                         <ul className='menu'>
