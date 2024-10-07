@@ -32,10 +32,11 @@
 }
 
 .box{
-    width: 400px;
-    height: 400px;
+    width: 401px;
+    height: 401px;
     border-radius: 100%;
-    border: 25px solid rgba(141,141,235,2);
+    border: 25px solid;
+    color: #090216;
 }
 
 .box_img{
@@ -47,10 +48,10 @@
 
 .box_img img{
     width: 25.3rem;
-    height: 25rem;
+    height: 402px;
     border-radius: 54%;
     margin-left: 83px;
-    margin-top: 78px;
+    margin-top: 79px;
 }
 
 .whatsapp_container{

@@ -1,0 +1,56 @@
+.aboutUs_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.team_member{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.aboutUs_desc{
+    flex: 1;
+    text-align: left;
+}
+
+.team_member h2{
+    text-align: left;
+}
+
+.acoutUs_heading{
+    font-size: 32px;
+    margin-bottom: 20px;
+}
+
+.aboutUs_desc p{
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 40px;
+}
+
+.member_card{
+    width: 200px;
+    margin-bottom: 20px;
+}
+
+.member_img{
+    width: 100%;
+    height: auto;
+    border-radius: 3%;
+    margin-bottom: 10px;
+}
+
+.member_name{
+    font-size: 18px;
+    margin-bottom: 5px;
+}
+
+.member_role{
+    font-size: 14px;
+    color: #888;
+}

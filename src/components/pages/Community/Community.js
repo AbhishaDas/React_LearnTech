@@ -1,6 +1,6 @@
 import React from 'react'
 import './Community.css'
-import tc from '../../../assets/img/tc.png'
+import tc from '../../../assets/img/tc.jpg'
 
 function Community() {
     const handleClick =()=>{
@@ -8,7 +8,7 @@ function Community() {
     }
   return (
     <div className="container">
-        <div className="start_wrapper">
+        <div className="start_wrapper" style={{marginTop:'150px'}}>
             <div className="start_img">
                 <img src={tc} alt="" />
             </div>

@@ -26,7 +26,7 @@ function Courses() {
   return (
     <div className="container course_container">
         <div className="course_top">
-            <h2 className='section_title'>Our Free Courses</h2>
+            <h2 className='section_title' style={{marginTop:'150px'}}>Our Free Courses</h2>
             <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. </p>
             
             <div className="course_wrapper">{

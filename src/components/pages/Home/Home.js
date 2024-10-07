@@ -1,6 +1,6 @@
 import React from 'react'
 import './Home.css'
-import meta from '../../../assets/img/meta.jpeg'
+import meta from '../../../assets/img/meta.jpg'
 import {AiOutlineWhatsApp} from 'react-icons/ai'
 import Courses from '../Courses/Courses'
 import Community from '../Community/Community'

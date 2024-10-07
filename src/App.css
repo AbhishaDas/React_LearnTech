@@ -1,6 +1,6 @@
 :root{
-    --primary-color:#9a02c0;
-    --heading-color:#290233;
+    --primary-color:#0ae;
+    --heading-color:#020b5f;
 }
 
 body{
@@ -55,4 +55,6 @@ ul{
     font-weight: 700;
     outline: none;
     padding: 7px 15px;
+    margin-top: auto;
 }
+
